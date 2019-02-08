@@ -1,0 +1,4 @@
+ TestSum←{
+     6≠##.Main.Sum 1 2 3:1
+     0
+ }
