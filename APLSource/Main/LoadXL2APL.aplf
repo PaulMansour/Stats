@@ -1,0 +1,9 @@
+ LoadXL2APL←{
+     ⍝ This must be standard.
+     A←##.##.##.CarlisleGroup.AcreTools.Main
+     c←##.AcreConfig
+     f←c.ProjectFolder
+     d←f,'Assets/Runtime/XL2APL'
+     r←A.LoadApplication d
+
+ }
