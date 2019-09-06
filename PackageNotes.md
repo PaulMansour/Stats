@@ -1,3 +1,9 @@
+# Stats Release 0.0.29 n/a                
+1. Modify average function
+
+# Stats Release 0.0.27 2019-09-06 17:36:23
+1. Documentation
+
 # Stats Release 0.0.26 2019-09-06 16:06:09
 1. Add average function
 2. Add startup function
