@@ -1,0 +1,11 @@
+ BuildWindowsApp←{
+     ⍝ ⍵ ←→ Project Space
+     c←⍵.AcreConfig
+     p←c.ProjectFolder
+     f←p,'dist/ReleaseArtifacts/'
+     _←3 ⎕MKDIR f
+     t←⊂'This is a release artifact!'
+     t,←⊂'Like a Windows install.'
+     _←(⊂t)⎕NPUT(f,'StatsApp.txt')1
+     0
+ }

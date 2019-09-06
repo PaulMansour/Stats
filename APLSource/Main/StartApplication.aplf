@@ -1,0 +1,3 @@
+ StartApplication←{
+     'Welcome to the stats app!'
+ }
