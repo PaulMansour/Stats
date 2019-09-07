@@ -1,4 +1,8 @@
-# Stats Release 0.0.30 n/a                
+# Stats Release 0.0.31 n/a                
+1. Bump version of dependency Utilities
+2. Doc the sum function
+
+# Stats Release 0.0.30 2019-09-07 18:07:31
 1. Document min function
 
 # Stats Release 0.0.29 2019-09-06 18:26:56
