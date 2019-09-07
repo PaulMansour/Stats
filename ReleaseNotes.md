@@ -1,4 +1,7 @@
-# Stats Release 0.0.34 n/a                
+# Stats Release 0.0.35 n/a                
+1. Doc max function
+
+# Stats Release 0.0.34 2019-09-07 19:27:56
 1. fix bug in avarage function
 
 # Stats Release 0.0.33 2019-09-07 18:35:39
