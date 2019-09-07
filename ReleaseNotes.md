@@ -1,4 +1,6 @@
-# Stats Release 0.0.35 n/a                
+# Stats Release 0.0.36 n/a                
+
+# Stats Release 0.0.35 2019-09-07 19:50:53
 1. Doc max function
 
 # Stats Release 0.0.34 2019-09-07 19:27:56
