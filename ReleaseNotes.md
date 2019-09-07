@@ -1,4 +1,6 @@
-# Stats Release 0.0.31 n/a                
+# Stats Release 0.0.32 n/a                
+
+# Stats Release 0.0.31 2019-09-07 18:33:44
 1. Bump version of dependency Utilities
 2. Doc the sum function
 
