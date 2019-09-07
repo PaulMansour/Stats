@@ -1,4 +1,7 @@
-# Stats Release 0.0.33 n/a                
+# Stats Release 0.0.34 n/a                
+1. fix bug in avarage function
+
+# Stats Release 0.0.33 2019-09-07 18:35:39
 
 # Stats Release 0.0.32 2019-09-07 18:35:09
 
