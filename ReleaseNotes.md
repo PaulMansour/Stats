@@ -1,4 +1,7 @@
-# Stats Release 0.0.36 n/a                
+# Stats Release 0.0.37 n/a                
+1. Modify BuildWindowsApp
+
+# Stats Release 0.0.36 2019-09-07 19:51:44
 
 # Stats Release 0.0.35 2019-09-07 19:50:53
 1. Doc max function
