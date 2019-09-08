@@ -1,8 +1,7 @@
  BuildWindowsApp←{
      ⍝ ⍵ ←→ Project Space
      c←⍵.AcreConfig
-     p←c.ProjectFolder
-     f←p,'dist/ReleaseArtifacts/'
+     f←c.ReleaseArtifactsFolder
      _←3 ⎕MKDIR f
      t←⊂'This is a release artifact!'
      t,←⊂'Like a Windows install.'
