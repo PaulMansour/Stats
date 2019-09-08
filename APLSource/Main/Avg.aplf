@@ -1,4 +1,5 @@
  Avg←{
    ⍝ Average
+   ⍝ Add a comment
      (+⌿⍵)÷≢⍵
  }
