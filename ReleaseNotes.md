@@ -1,4 +1,7 @@
-# Stats Release 0.0.40                    
+# Stats Release 0.0.41                    
+1. Add some documentation
+
+# Stats Release 0.0.40 2019-09-08 01:47:41
 1. Implement RFE 234
 
 # Stats Release 0.0.39 2019-09-08 00:35:29
