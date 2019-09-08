@@ -1,4 +1,7 @@
-# Stats Release 0.0.38 n/a                
+# Stats Release 0.0.39 n/a                
+1. Enhance product doc
+
+# Stats Release 0.0.38 2019-09-08 00:17:06
 
 # Stats Release 0.0.0 2019-09-08 00:15:10
 
