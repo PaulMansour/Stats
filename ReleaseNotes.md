@@ -1,4 +1,6 @@
-# Stats Release 0.0.0 n/a                
+# Stats Release 0.0.38 n/a                
+
+# Stats Release 0.0.0 2019-09-08 00:15:10
 
 # Stats Release 0.0.37 2019-09-08 00:14:53
 1. Modify BuildWindowsApp
