@@ -1,4 +1,7 @@
-# Stats Release 0.0.39 n/a                
+# Stats Release 0.0.40                    
+1. Implement RFE 234
+
+# Stats Release 0.0.39 2019-09-08 00:35:29
 1. Enhance product doc
 
 # Stats Release 0.0.38 2019-09-08 00:17:06
