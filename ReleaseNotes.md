@@ -1,4 +1,6 @@
-# Stats Release 0.0.41                    
+# Stats Release 0.0.42                    
+
+# Stats Release 0.0.41 2019-09-08 06:52:12
 1. Add some documentation
 
 # Stats Release 0.0.40 2019-09-08 01:47:41
